@@ -23,7 +23,7 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2021 Nordic Giant</li>
+                <li>&copy; Copyright 2021 Z.B.G</li>
                 <li>
                   Design by{" "}
                   <a title="Styleshout" href="http://www.styleshout.com/">
@@ -33,7 +33,6 @@ class Footer extends Component {
               </ul>
             </div>
           </Fade>
-
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">
               <i className="icon-up-open"></i>

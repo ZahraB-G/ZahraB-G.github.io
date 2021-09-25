@@ -103,19 +103,19 @@
     "projects": [
       {
         "title":"Small Business Website",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"Website I built for small business",
         "image":"01.jpg",
         "url":"https://github.com/ZahraB-G/SmallBusinessWebsite"
       },
       {
         "title":"Fibonacci Code Generator",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"Decoding a coded file by server",
         "image":"02.jpg",
         "url":"https://github.com/ZahraB-G/Parallel_Fibonacci_Code_Generator_Using_Synchronization_Mechanisms"
       },
       {
         "title":"DVD Store",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"Desktop app I built to convert a file text system to an app",
         "image":"03.jpg",
         "url":"https://github.com/ZahraB-G/DVDCollectionApplication"
       }

@@ -1,6 +1,6 @@
 # React Nice Resume :page_with_curl:
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### [LIVE DEMO](https://zahrab-g.netlify.app)
 
 ![img](https://github.com/ZahraB-G/ZahraB-G.github.io/raw/master/public/images/img.jpg)
 

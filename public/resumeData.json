@@ -3,8 +3,9 @@
     "name":"Zahra Bodaghi-Ginns",
     "description":"I am a persistent and ambitious developer...",
     "image":"profilepic.jpg",
-    "bio":["I am currently a senior in the college of computer science at the University of Houston pursuing an undergraduate degree.\n", 
-     "hey"],
+    "bio":"I am a persistent and ambitious developer who enjoys overcoming technical challenges. I am eager to learn new programming languages, platforms, and in general, anything related to technology. ",
+    "bio2": "I am currently a senior in the college of computer science at the University of Houston pursuing an undergraduate degree. I balance working individually and in a team under pressure by being super organized and goal-oriented.",
+    "goal": "I am seeking full time software engineering opportunites for December 2021.",
     "contactmessage":"Please contact me for any job opportunity related to computer science. In addition, if you have any suggestions/recommendations to improve my website feel free to write me a message here.",
     "email": "ZahraGinns@gmail.com",
     "phone": "832-817-4491",
@@ -44,7 +45,7 @@
         "school":"Lone Star College",
         "degree":"Associate of Sciense",
         "graduated":"December 2019",
-        "description":"Summa Cum Laude"
+        "description":"Summa Cum Laude, Dean's List : All semster"
       }
     ],
     "work":[
@@ -52,7 +53,7 @@
         "company":"Private",
         "title":"Math/Sciense Tutor ",
         "years":"Janury 2019 - Present",
-        "description":"Teaching studenth in grade 6-8 ."
+        "description":"Teaching mainly students in grade 6-8 ."
       },
       {
         "company":"JcPenney",
@@ -104,19 +105,19 @@
         "title":"Small Business Website",
         "category":"My Travel Blog for my post-university travels",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/ZahraB-G/SmallBusinessWebsite"
       },
       {
         "title":"Fibonacci Code Generator",
         "category":"(offline now) A fighting gear company I started",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/ZahraB-G/Parallel_Fibonacci_Code_Generator_Using_Synchronization_Mechanisms"
       },
       {
         "title":"DVD Store",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/ZahraB-G/DVDCollectionApplication"
       }
     ]
   }

@@ -8,6 +8,8 @@ class About extends Component {
     const name = this.props.data.name;
     const profilepic = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
+    const bio2 = this.props.data.bio2;
+    const goal = this.props.data.goal;
     const street = this.props.data.address.street;
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
@@ -24,13 +26,16 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={profilepic}
-                alt="Nordic Giant Profile Pic"
+                alt="Zahra Bodaghi-Ginns Profile Pic"
               />
             </div>
             <div className="nine columns main-col">
               <h2>About Me</h2>
 
-              <p>{bio}</p>
+              {bio}<br/>
+              {bio2} <br/>
+              <div>{goal}</div>
+
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>

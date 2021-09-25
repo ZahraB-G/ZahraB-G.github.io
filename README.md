@@ -4,8 +4,8 @@
 
 ![img](https://github.com/ZahraB-G/ZahraB-G.github.io/raw/master/public/images/img.jpg)
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+# About 
+#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. 
 
 ![img](https://github.com/ZahraB-G/ZahraB-G.github.io/raw/master/public/images/portfolio/03.jpg?raw=true)
 

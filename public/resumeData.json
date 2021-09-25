@@ -3,7 +3,8 @@
     "name":"Zahra Bodaghi-Ginns",
     "description":"I am a persistent and ambitious developer...",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":["I am currently a senior in the college of computer science at the University of Houston pursuing an undergraduate degree.\n", 
+     "hey"],
     "contactmessage":"Please contact me for any job opportunity related to computer science. In addition, if you have any suggestions/recommendations to improve my website feel free to write me a message here.",
     "email": "ZahraGinns@gmail.com",
     "phone": "832-817-4491",
@@ -37,7 +38,7 @@
         "degree":"Bachlor of Computer Sciense",
         "minor":"Math",
         "Expected graduated":"December 2021",
-        "description":"GPA:3.95, Dean's List : All semster"
+        "description":"GPA:3.95/4, Dean's List : All semster"
       },
       {
         "school":"Lone Star College",

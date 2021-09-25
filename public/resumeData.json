@@ -1,30 +1,30 @@
 {
   "main": {
     "name":"Zahra Bodaghi-Ginns",
-    "description":"I am a persistent and ambitious developer.\\nScroll down to learn more about me.",
+    "description":"I am a persistent and ambitious developer...",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Please contact me for any job opportunity related to computer science. In addition, if you have any suggestions/recommendations to improve my website feel free to write me a message here.",
     "email": "ZahraGinns@gmail.com",
     "phone": "832-817-4491",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/ZahraB-G",
+    "project":"https://github.com/ZahraB-G",
     "address":{
       "city":"Katy",
       "state":"Texas",
       "zip": "77450"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://zahrab-g.netlify.app",
+    "resumedownload":"https://github.com/ZahraB-G/resume/raw/main/Resume.pdf",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"www.linkedin.com/in/zahra-bodaghi",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/ZahraB-G",
         "className":"fa fa-github"
       }
     ]
@@ -37,63 +37,63 @@
         "degree":"Bachlor of Computer Sciense",
         "minor":"Math",
         "Expected graduated":"December 2021",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"GPA:3.95, Dean's List : All semster"
       },
       {
         "school":"Lone Star College",
         "degree":"Associate of Sciense",
         "graduated":"December 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Summa Cum Laude"
       }
     ],
     "work":[
       {
         "company":"Private",
-        "title":"Math Tutor ",
+        "title":"Math/Sciense Tutor ",
         "years":"Janury 2019 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Teaching studenth in grade 6-8 ."
       },
       {
         "company":"JcPenney",
         "title":"Online Sales Associate ",
         "years":"October 2017 - April 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Responsible for online orders and provided quality service to customers and associates."
       },
       {
         "company":"Katy Furniture",
-        "title":"Order PRocessor",
+        "title":"Order Processor",
         "years":"Februray 2015 - Augues 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Ordered all the merchandise for the store and communicated with vendors regarding backorders"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"C#",
         "level":"90%"
       },
       {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
         "name":"PHP",
-        "level":"80%"
+        "level":"85%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"SQL",
+        "level":"100%"
       }
     ]
   },
